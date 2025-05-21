@@ -1,8 +1,3 @@
-Senderismo / montaña
-Ciclismo
-Paseos urbanos o costeros
-Rutas en parques naturales
-Rutas accesibles para familias o personas con movilidad reducida
 
 # rutas-malaga
 
